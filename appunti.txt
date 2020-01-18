@@ -1,0 +1,8 @@
+18/01/2020
+  Flussi con servlet file: EsempioBuffer
+    Materiale utilizzato:
+    Apache - il server
+    Tomcat - web-container che eseguisce le servlet
+      PrintWriter - flusso con interagire con il client
+      String buffer - per costruire il body della risposta (pagina HTML rispedita)
+      
