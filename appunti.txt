@@ -5,4 +5,9 @@
     Tomcat - web-container che eseguisce le servlet
       PrintWriter - flusso con interagire con il client
       String buffer - per costruire il body della risposta (pagina HTML rispedita)
+25/01/2020
+   Esempio servlet:
+      Chiamata della servltet, utilizzando HTML (<a...>CLICK</a>) e javascript(window.open("link"));
+      Utilizzo dei Cookie
+      
       
