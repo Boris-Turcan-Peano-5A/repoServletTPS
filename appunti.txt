@@ -9,5 +9,8 @@
    Esempio servlet:
       Chiamata della servltet, utilizzando HTML (<a...>CLICK</a>) e javascript(window.open("link"));
       Utilizzo dei Cookie
-      
+08/02/2020
+  Esempio servlet:
+      Esempio di utilizzo delle servlet con textbox e GET (servlet6.html form2.html(codice sorgente))
+      Esempio di utilizzo delle servlet con textbox e POST (servlet5.html form1.html(codice sorgente))
       
