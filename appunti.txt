@@ -12,5 +12,7 @@
 08/02/2020
   Esempio servlet:
       Esempio di utilizzo delle servlet con textbox e GET (servlet6.html form2.html(codice sorgente))
+          È consigliato soprattutto in quelle richieste in cui è utile salvare nell’URL i parametri richiesti, ad esempio per poter essere           cachati.
       Esempio di utilizzo delle servlet con textbox e POST (servlet5.html form1.html(codice sorgente))
+          Il metodo POST si differenza da GET in quanto i parametri della richiesta non vengono passati in query string e quindi non                 possono essere tracciati nemmeno negli access log dei web server. Caso d'uso comune di una richiesta in POST è un form che invia           dati personali, come in una registrazione.
       
